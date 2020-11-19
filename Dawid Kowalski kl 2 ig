@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<title> SPIS TREŚCI </title>
+
+</head>
+
+<body>
+
+<center>Kategorie sprzętowe</center>
+
+<ol type="I">
+<li> Smatfony i smartwatche
+     <ol type="1">
+     <li> Smatfony
+         <ol type="a">
+         <li> Samsung</li>
+             <ul type="square">
+             <li> S10</li>
+             <li> note 20 
+             </ul>
+         <li>Apple  </li>
+             <ul type="square">
+             <li> Iphone 11 </li>
+             <li> Iphone 12 pro 
+             </ul>
+		 </ol>	
+   	 </ol>	 
+			 <ol type="1" start="2">
+     <li> Smartwatche
+         <ol type="a">
+         <li> Xiaomi</li>
+             <ul type="square">
+             <li> Mi Band 4 </li>
+             <li> Mi Band 5 
+             </ul>
+         <li> Apple </li>
+             <ul type="square">
+             <li> Apple Watch 3 </li>
+             <li> Apple Watch SE 
+             </ul>
+			
+			 </ol>
+         </ol>
+	 </ol>
+
+<ol type="I" start="2">
+<li> Klawatury i Myszki
+     <ol type="1">
+     <li> Klawiatury
+         <ol type="a">
+         <li> Steelseries</li>
+             <ul type="square">
+             <li> Apex Pro TLK  </li>
+             <li> Apex 3 
+             </ul>
+         <li> Razer </li>
+             <ul type="square">
+             <li> RAZER Ornata V2 </li>
+             <li> RAZER BlackWidow V3 Pro
+             </ul>
+		 </ol>	
+   	 </ol>	 
+			 <ol type="1" start="2">
+     <li> Myszki
+         <ol type="a">
+         <li> Steelseries</li>
+             <ul type="square">
+             <li> Rival 3 </li>
+             <li> Rival 310 
+             </ul>
+         <li> Razer </li>
+             <ul type="square">
+             <li> DeathAdder Essential </li>
+             <li> Viper Mini 
+             </ul>
+			
+			 </ol>
+         </ol>
+	 </ol>
+
+
+<ol type="I" start="3">
+<li> Procesory i Karty graficzne
+     <ol type="1">
+     <li> Procesory
+         <ol type="a">
+         <li> Intel</li>
+             <ul type="square">
+             <li> Intel core i7 9600k </li>
+             <li> Intel core i3 5600
+             </ul>
+         <li> AMD </li>
+             <ul type="square">
+             <li> AMD Ryzen 3 3100 </li>
+             <li> AMD Ryzen threadripper 3990X
+             </ul>
+		 </ol>	
+   	 </ol>	 
+			 <ol type="1" start="2">
+     <li> Karty graficzne
+         <ol type="a">
+         <li> Nvidia</li>
+             <ul type="square">
+             <li> GTX 980Ti </li>
+             <li> RTX 3090
+             </ul>
+         <li> AMD </li>
+             <ul type="square">
+             <li> Radeon RX 5500 XT </li>
+             <li> Radeon RX 570 
+             </ul>
+			
+			 </ol>
+         </ol>
+	 </ol>
+
+
+
+
+
+
+</body>
+
+</html>
